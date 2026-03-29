@@ -5,17 +5,14 @@
       "versionNumber": "0.1.0.NEXT",
       "path": "force-app",
       "default": true,
-      "package": "FSTR-UnlockedPackage",
+      "package": "2GP-fsrt01",
       "versionDescription": ""
     }
   ],
-  "name": "2GP",
-  "namespace": "",
+  "namespace": "fstr01",
   "sfdcLoginUrl": "https://login.salesforce.com",
   "sourceApiVersion": "66.0",
   "packageAliases": {
-    "FSTR-UnlockedPackage": "0HoWy00000001iTKAQ",
-    "FSTR-UnlockedPackage@0.1.0-1": "04tWy0000005gLBIAY",
-    "FSTR-UnlockedPackage@0.1.0-2": "04tWy0000005gOPIAY"
+    "2GP-fsrt01": "0HogL000000174HSAQ"
   }
 }
